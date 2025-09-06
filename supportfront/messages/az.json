@@ -1,0 +1,526 @@
+{
+  "header": {
+    "logoSubtitle": "Çünki biz bir-birimizə ehtiyac duyuruq.",
+    "account": "HESAB",
+    "register": "QEYDİYYAT",
+    "signIn": "DAXIL OL",
+    "contact": "ƏLAQƏ",
+    "logout": "ÇIXIŞ ET",
+    "about": "HAQQIMIZDA",
+    "eventsAndResearch": "Tədbirlər və Tədqiqatlar",
+    "events": "Tədbirlər",
+    "research": "Tədqiqatlar",
+    "consultation": "KONSULTASİYA",
+    "blog": "BLOQ",
+    "takeAction": "HƏRƏKƏTƏ KEÇ",
+    "donate": "İANƏ ET",
+    "sponsorChild": "BİR UŞAĞA SPONSOR OL",
+    "projectsMontoring": "LAYİHƏLƏR & MONİTORİNG",
+    "services": "XİDMƏTLƏR",
+    "documents": "SƏNƏDLƏR",
+    "career": "KARYERA",
+    "volunteer": "KÖNÜLLÜ OL",
+    "vacancy": "VAKANSİYA"
+  },
+  "heroBanner": {
+    "title": "GƏLƏCƏK UĞRUNDA BU GÜN! Uşaqları qoruyur, qadınları gücləndirir, insan alverinə qarşı mübarizə aparırıq.",
+    "buttonText": "İanə Et"
+  },
+  "featuresSection": {
+    "title": "1998-ci ildən qadınlar üçün buradayıq.",
+    "subtitle": "1998-ci ildən qadınlar üçün təhlükəsiz dəstək, uşaqlar üçün ümid, cəmiyyət üçün sağlam gələcək qururuq.",
+    "cards": [
+      {
+        "image": "https://www.childfund.org/globalassets/0aaa---universal-blocks/homepage/child.png",
+        "title": "Uşaqların təhlükəsizliyi",
+        "description": "Uşaqlar cəmiyyətimizin gələcəyidir. Onların təhlükəsizliyi, rifahı və inkişafı üçün çalışır, qoruyucu və zərərsiz müdaxilələrlə dəstək veririk.",
+        "buttonText": "ÖYRƏN",
+        "buttonColor": "bg-[#009966]"
+      },
+      {
+        "image": "https://www.childfund.org/contentassets/35ea6c14582e4c08a5a7a7f442ba1d5e/earth-3.png",
+        "title": "Qadınlara Dəstək",
+        "description": "Fərdi və institusional dəstək bizə dünya üzrə təxminən 200 icma əsaslı təşkilata — son 10 ildə 600 milyon dollardan çox sərmayə qoymağa imkan verir ki, uşaqlar dəstəklənsin və qorunsun. Çünki yerli dəyişikliyin təsiri daha qalıcıdır.",
+        "buttonText": "ÖYRƏN",
+        "buttonColor": "bg-[#009966]"
+      },
+      {
+        "image": "https://www.childfund.org/globalassets/0aaa---universal-blocks/homepage/charity.png",
+        "title": "Etibarlı fəaliyyət, etik yanaşma",
+        "description": "“Təmiz Dünya” 25 ildən artıqdır ki, insan alveri və gender əsaslı zorakılıqla mübarizədə etik prinsiplərə və zərər verməmək prinsipinə sadiqdir. Bütün fəaliyyətlərimiz şəffaflıq, insan ləyaqətinə hörmət və sosial məsuliyyət üzərində qurulub.",
+        "buttonText": "ÖYRƏN",
+        "buttonColor": "bg-[#009966]"
+      }
+    ]
+  },
+  "highlightSections": [
+    {
+      "image": "/assets/images/child1.jpg",
+      "title": "Bir ömürlük dostluğa başla",
+      "description": "Sığınacaqda bir uşağa və ya bir qadına dəstək olmaq, onların həyat yoluna işıq tutmaq deməkdir. Burada atılan hər addım unudulmazdır çünki sevgi, ümid və qayğı ilə bir ailəyə çevrilirik",
+      "buttonText": "DAHA ÇOX",
+      "layout": "left"
+    },
+    {
+      "image": "/assets/images/child2.jpg",
+      "title": "Birlikdə yaratdığımız təsir",
+      "description": "Uşaqlar sağlam, savadlı, bacarıqlı və təhlükəsiz böyüdükdə — istər evdə, istər məktəbdə, istər cəmiyyətdə, istərsə də onlayn məkanda — çox şey mümkün olur. Biz birlikdə onlara məhz bunu etməyə kömək edirik",
+      "buttonText": "DAHA ÇOX",
+      "layout": "right"
+    }
+  ],
+  "newsletterSection": {
+    "title": "Yardıma ehtiyacın var?",
+    "description": "Elə isə indi qeydiyyatdan keç və TəmizDünya icmasına qoşul!",
+    "buttonText": "QEYDİYYAT ET"
+  },
+  "registration": {
+    "title": "Qeydiyyat",
+    "form": {
+      "title": "Başlıq",
+      "suffix": "Sonluq",
+      "firstName": "Ad",
+      "lastName": "Soyad",
+      "username": "İstifadəçi adı",
+      "country": "Ölkə",
+      "streetAddress": "Küçə ünvanı",
+      "city": "Şəhər",
+      "state": "Rayon",
+      "zipCode": "Poçt Kodu",
+      "phone": "Telefon",
+      "email": "Email",
+      "password": "Şifrə",
+      "confirmPassword": "Şifrəni təsdiqlə"
+    },
+    "buttons": {
+      "continue": "Qeydiyyat et"
+    },
+    "placeholders": {
+      "title": "Başlıq seçin",
+      "suffix": "Sonluq seçin",
+      "phone": "Telefon nömrəsi +994 (xx) xxx-xx-xx"
+    },
+    "validate": {
+      "title": "Şifrə minimum 8 simvol olmalı, 1 böyük hərf, 1 kiçik hərf, 1 rəqəm və 1 xüsusi işarə daxil etməlidir. (Nümunə: Şifrə123!)"
+    }
+  },
+  "login": {
+    "title": "Daxil ol",
+    "form": {
+      "email": "E-poçt ünvanı",
+      "password": "Şifrə"
+    },
+    "buttons": {
+      "login": "Daxil ol"
+    },
+    "messages": {
+      "success": "Uğurla daxil oldunuz!",
+      "error": "Daxil olmaq alınmadı!"
+    },
+    "forgot": "Şifrəni unutmusan?"
+  },
+  "reset": {
+    "title": "Şifrəni unutmusan?",
+    "description": "Email addresini qeyd et, və sənə reset linki göndərəcəyik!",
+    "emailPlaceholder": "Email addresini girin",
+    "buttonText": "Reset Linkini göndər",
+    "sending": "göndərilir...",
+    "send": "Reset Linkini Göndər",
+    "successMessage": "Şifrənizin reset linki mailinizə göndərildi!",
+    "resetForm": {
+      "title": "Şifrəni yenilə",
+      "newPassword": "Yeni Şifrə",
+      "confirmPassword": "Şifrəni təsdiqlə",
+      "resetButton": "Təsdiq Et",
+      "successReset": "Şifrəniz yeniləndi!"
+    },
+    "error": "Xəta baş verdi!"
+  },
+  "about": {
+    "title": "Nə edirik",
+    "cards": [
+      {
+        "image": "https://www.childfund.org/globalassets/about-childfund/about/child.png",
+        "title": "Uşaqlara yönəlik",
+        "description": "Biz uşaqlar üçün varıq – və onların səsi ilə təcrübələri gördüyümüz hər işə istiqamət verir. Hər il yoxsulluqla mübarizə aparan milyonlarla uşaq və ailəyə dəstək proqramları ilə onların inkişafı üçün lazım olan şəraitin yaradılmasına kömək edirik."
+      },
+      {
+        "image": "https://www.childfund.org/globalassets/about-childfund/about/community.png",
+        "title": "İcma mərkəzli",
+        "description": "Bir icma inkişaf təşkilatı olaraq, uşaqlara təsir edən yoxsulluğu azaltmaq üçün yerli tərəfdaş təşkilatlarla əl-ələ çalışırıq. Çünki yerli insanlar öz ehtiyaclarını ən yaxşı şəkildə bilirlər."
+      },
+      {
+        "image": "https://www.childfund.org/globalassets/about-childfund/about/people.png",
+        "title": "İnsana öncəlik verən",
+        "description": "Biz inanırıq ki, insanlar hansı şəraitdə və ya təcrübədə olursa-olsun insandır və onların dəyəri ölçülməzdir. Proqramlarımızdakı hər bir uşağın və qarşılaşdığımız hər bir insanın ləyaqətini qorumağa çalışırıq."
+      }
+    ],
+    "text": {
+      "title": "1998-ci ildən bəri buradayıq. Niyə? Çünki bir-birimizə ehtiyacımız var.",
+      "subtitle1": "“Təmiz Dünya” Qadınlara Yardım İctimai Birliyi (TDQYİB) Azərbaycanda qadın hüquqlarının müdafiəsi və insan alveri qurbanlarına dəstək sahəsində etibarlı xidmət təminatçısı və aparıcı müdafiəçidir. Biz Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi tərəfindən akkreditə olunmuş sığınacaq və reabilitasiya mərkəzini idarə edərək, insan alveri və gender əsaslı zorakılıqdan zərər çəkmiş Azərbaycan vətəndaşlarına və əcnəbilərə kompleks xidmətlər göstəririk.",
+      "subtitle2": "1998-ci ildə təsis olunmuş TDQYİB, həm xidmət sahəsində, həm hüquqi islahatlarda, həm də beynəlxalq müdafiə təşəbbüslərində Azərbaycanın öncül təşkilatlarından birinə çevrilmişdir. İki onillik ərzində biz birbaşa dəstək xidmətlərini sistemli dəyişiklik təşəbbüsləri ilə birləşdirərək, bu sahədə əsas vətəndaş cəmiyyəti institutlarından biri kimi fəaliyyət göstəririk."
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "description": "Hər bir qadın və uşağın zorakılıqdan azad, ədalətə çıxış, bərabər imkanlar və ləyaqətli həyat şəraitinə malik olduğu inklüziv və təhlükəsiz bir cəmiyyətin qurulması.",
+      "buttonText": "Ətraflı öyrən"
+    },
+    "mission": {
+      "title": "Missiyamız",
+      "points": [
+        "İnsan alveri və zorakılıq qurbanlarının müdafiəsi, gücləndirilməsi və reabilitasiyasını təmin etmək",
+        "İstismar və gender əsaslı ayrı-seçkiliyin aradan qaldırılması məqsədilə milli və beynəlxalq səyləri təşviq və dəstəkləmək."
+      ]
+    }
+  },
+  "effectPage": {
+    "title": "Təsirimiz",
+    "impact": {
+      "items": [
+        {
+          "title": "Minlərlə qadına hüquqi və psixoloji dəstək göstərilmişdir.",
+          "desc": "Təşkilatımız insan alveri və zorakılıq qurbanlarına fərdi yanaşma ilə reabilitasiya və hüquqi müdafiə xidmətləri təqdim etmişdir."
+        },
+        {
+          "title": "Azərbaycanın ilk akkreditə olunmuş sığınacaqlarından birini idarə edirik.",
+          "desc": "Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi tərəfindən akkreditə olunmuş bu sığınacaq insan alveri qurbanlarına kompleks dəstək təqdim edir."
+        },
+        {
+          "title": "Milli siyasətə töhfə verən aparıcı təşkilatlardan biriyik.",
+          "desc": "Azərbaycanın İnsan Alveri ilə Mübarizə üzrə Milli Fəaliyyət Planının hazırlanmasında və tətbiqində fəal iştirak etmişik."
+        },
+        {
+          "title": "Güclü yerli və beynəlxalq əməkdaşlıqlar qurmuşuq.",
+          "desc": "QHT-lər, müdafiə şəbəkələri və beynəlxalq təşkilatlarla tərəfdaşlıqlar quraraq səylərimizi qlobal miqyasda genişləndirmişik."
+        }
+      ]
+    },
+    "join": {
+      "title": "Necə Qoşula bilərsiniz",
+      "options": [
+        {
+          "title": "Tərəfdaşlıq",
+          "desc": "Layihələrdə tərəfdaş kimi iştirak edin və birgə təsir yaradaq."
+        },
+        {
+          "title": "Dəstək",
+          "desc": "İanələr və xidmətlər vasitəsilə insan alveri qurbanlarına dəstək olun."
+        },
+        {
+          "title": "Maarifləndirmə",
+          "desc": "Təlim və kampaniyalarda iştirak edərək cəmiyyəti maarifləndirin."
+        }
+      ]
+    },
+    "highlights": {
+      "title": "2024–2025-ci illərin əsas məqamları",
+      "items": [
+        "“Əmber ürəyi” mükafatı (Ukrayna XİN, 2025) – Humanitar dəstəyə görə.",
+        "UNODC monitorinqi (2024) – Sağ qalan əsaslı xidmətlərə görə tərif.",
+        "GAATW qlobal iştirakçılığı (2024–2025) – Beynəlxalq liderlik və təcrübə paylaşımı.",
+        "Regional əməkdaşlıq (2025) – Belarus nümayəndə heyəti ilə siyasət görüşü.",
+        "Amazon-da nəşrlər (2024) – Beynəlxalq metodologiyanın buraxılması.",
+        "Rəqəmsal əlaqənin genişlənməsi (2024) – Sosial media və WhatsApp kanalları ilə yönləndirmələrin artması."
+      ]
+    },
+    "leadership": {
+      "title": "Rəhbərlik",
+      "name": "Mehriban Zeynalova",
+      "position": "İnsan hüquqları müdafiəçisi, İnsan Alverinə Qarşı Mübarizə üzrə Milli QHT Koalisiyasının koordinatoru.",
+      "desc": "Milli və beynəlxalq səviyyədə tanınır, BMT forumlarında və qlobal dialoqlarda vətəndaş cəmiyyətini təmsil edir."
+    }
+  },
+  "projectsMonitoring": {
+    "title": "Layihələr və Monitorinq",
+    "subtitle": "Keyfiyyət, şəffaflıq və davamlı inkişaf üçün atılan addımlar",
+    "monitoring": {
+      "title": "Xarici Monitorinq və Beynəlxalq Tanınma",
+      "items": [
+        {
+          "title": "Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi",
+          "text": "Sığınacağın akkreditasiya tələblərinə uyğun fəaliyyəti qiymətləndirilmişdir."
+        },
+        {
+          "title": "Daxili İşlər Nazirliyi",
+          "text": "Təhlükəsizlik tədbirləri və müdafiə protokolları yoxlanılmışdır."
+        },
+        {
+          "title": "Səhiyyə Nazirliyi",
+          "text": "Tibbi və psixoloji xidmətlərin koordinasiyası təhlil edilmişdir."
+        }
+      ],
+      "note": "Bu monitorinqlər təşkilatımızın şəffaflığına, etibarlılığına və dövlət qurumları ilə effektiv əməkdaşlığına dair əhəmiyyətli tanınma ilə nəticələnmişdir."
+    },
+    "partnerships": {
+      "title": "Strateji Tərəfdaşlıqlar və Potensialın Gücləndirilməsi (2024)",
+      "partners": [
+        "Daxili İşlər Nazirliyi",
+        "Səhiyyə Nazirliyi",
+        "Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi",
+        "Ailə, Qadın və Uşaq Problemləri üzrə Dövlət Komitəsi",
+        "Ədliyyə Nazirliyi",
+        "İnsan Alverinə Qarşı Mübarizə üzrə Milli QHT Koalisiyası"
+      ],
+      "note": "40-dan çox QHT ilə milli səyləri gücləndiririk."
+    },
+    "innovation": {
+      "title": "İnnovativ Təşəbbüs: Psixoloji Kabinet (2025)",
+      "list": [
+        "Təqsirkar şəxslər üçün strukturlu terapiya sessiyaları",
+        "Davranış dəyişdirmə proqramları",
+        "Psixoloji qiymətləndirmə və müşahidə xidmətləri"
+      ],
+      "note": "Layihənin məqsədi zorakılıq dövrəsini qırmaq və sağlam ailə dinamikalarını təşviq etməkdir."
+    }
+  },
+  "contact": {
+    "title": "Əlaqə",
+    "address": {
+      "label": "Ünvan",
+      "value": "Biləcəri qəsəbəsi, Motodrom sahə 19, Binəqədi rayonu, Bakı, Azərbaycan"
+    },
+    "phone": {
+      "label": "Telefon",
+      "value": "+994 55 314 35 15"
+    },
+    "email": {
+      "label": "E-poçt",
+      "value": "-"
+    },
+    "social": {
+      "label": "Sosial şəbəkələr",
+      "links": {
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "linkedin": "LinkedIn"
+      }
+    },
+    "form": {
+      "placeholders": {
+        "fullName": "Ad, Soyad *",
+        "email": "E-poçt *",
+        "phone": "Əlaqə nömrəsi (opsional)",
+        "subject": "Mövzu *",
+        "message": "Mesajınız *"
+      },
+      "consent": "Məlumatlarınız məxfi saxlanılacaq və yalnız əlaqə məqsədilə istifadə olunacaq.",
+      "submit": "Göndər",
+      "sending": "Göndərilir...",
+      "success": "Mesajınız göndərildi!",
+      "errors": {
+        "requiredAll": "Zəhmət olmasa məcburi xanaları doldurun.",
+        "email": "Düzgün e-poçt ünvanı daxil edin.",
+        "phone": "Düzgün telefon nömrəsi daxil edin.",
+        "consent": "Məxfilik razılığını təsdiqləyin.",
+        "messageMin": "Mesaj ən azı 10 simvol olmalıdır.",
+        "server": "Server xətası baş verdi."
+      },
+      "successTitle": "Mesajınız göndərildi!"
+    }
+  },
+  "volunteer": {
+    "title": "Könüllülük Anketi",
+    "subtitle": "Təmiz Dünya Qadınlara Yardım İctimai Birliyi",
+
+    "sections": {
+      "personal": "1. Şəxsi Məlumatlar",
+      "education": "2. Təhsil və peşə məlumatları",
+      "activity": "3. Könüllü fəaliyyəti",
+      "availability": "4. Əlçatanlıq və iş qrafiki",
+      "other": "5. Digər qeydlər"
+    },
+
+    "placeholders": {
+      "fullName": "Ad, Soyad *",
+      "birthDate": "Doğum tarixi *",
+      "gender": "Cins seçin *",
+      "phone": "Əlaqə nömrəsi *",
+      "email": "E-poçt ünvanı *",
+      "address": "Yaşadığınız ünvan (şəhər/rayon) *",
+
+      "educationLevel": "Təhsil səviyyəsi *",
+      "graduatedSchool": "Bitirdiyiniz təhsil müəssisəsi *",
+      "profession": "İxtisasınız *",
+      "workplace": "Hazırda çalışdığınız yer (əgər varsa)",
+      "position": "Vəzifəniz",
+
+      "otherArea": "Digər",
+      "prevExp": "Əvvəlki könüllü/QHT təcrübəniz (təşkilat, sahə, müddət)",
+      "motivation": "Niyə “Təmiz Dünya”da könüllü olmaq istəyirsiniz? (qısa motivasiya)",
+      "timeRange": "Konkret saat aralığı (məs: 10:00-14:00)",
+      "skills": "Xüsusi bacarıqlar / sertifikatlar (dillər, proqramlar, təlim təcrübəsi və s.)"
+    },
+
+    "gender": {
+      "male": "Kişi",
+      "female": "Qadın",
+      "other": "Digər"
+    },
+
+    "educationOptions": {
+      "secondary": "Orta",
+      "vocational": "Orta ixtisas",
+      "bachelor": "Ali təhsil (bakalavr)",
+      "masterPlus": "Ali təhsil (magistr və ya daha yuxarı)"
+    },
+
+    "areas": {
+      "awareness": "Maarifləndirmə tədbirləri",
+      "shelter": "Sığınacaqda fəaliyyət",
+      "child": "Uşaq yönümlü fəaliyyətlər",
+      "social": "Sosial media və kontent",
+      "translation": "Tərcümə və sənəd işi",
+      "research": "Tədqiqat və məlumat toplanması",
+      "legal": "Hüquqi dəstək",
+      "psych": "Psixoloji dəstək"
+    },
+
+    "days": {
+      "monday": "Bazar ertəsi",
+      "wednesday": "Çərşənbə",
+      "thursday": "Cümə axşamı",
+      "weekend": "Şənbə / Bazar"
+    },
+
+    "hours": {
+      "h1_5": "Həftədə 1–5 saat",
+      "h6_10": "Həftədə 6–10 saat",
+      "h11": "Həftədə 11+ saat"
+    },
+
+    "consent": "Verilən məlumatlar məxfi saxlanılacaq və yalnız daxili koordinasiya məqsədləri üçün istifadə olunacaq.",
+
+    "buttons": {
+      "submit": "Müraciət et",
+      "sending": "Göndərilir..."
+    },
+
+    "messages": {
+      "success": "Müraciətiniz uğurla göndərildi!",
+      "requiredAll": "Zəhmət olmasa tələb olunan xanaları doldurun.",
+      "requiredEdu": "Təhsil və peşə məlumatlarını tamamlayın.",
+      "requiredHours": "Həftəlik saat seçin.",
+      "consent": "Məxfilik razılığını təsdiqləyin.",
+      "error": "Göndərərkən xəta baş verdi."
+    },
+
+    "validation": {
+      "fullNameMin": "Ad və Soyad ən azı 3 simvoldan ibarət olmalıdır.",
+      "birthDateMinAge": "Könüllü olmaq üçün ən azı 16 yaşınız olmalıdır.",
+      "genderInvalid": "Etibarlı bir cinsiyyət seçin.",
+      "phoneInvalid": "Etibarlı bir telefon nömrəsi daxil edin.",
+      "emailInvalid": "Etibarlı bir e-poçt ünvanı daxil edin.",
+      "addressMin": "Ünvan ən azı 5 simvoldan ibarət olmalıdır.",
+      "educationInvalid": "Etibarlı bir təhsil səviyyəsi seçin.",
+      "schoolMin": "Bitirdiyiniz təhsil müəssisəsinin adı çox qısadır.",
+      "professionMin": "İxtisas/peşə adı çox qısadır.",
+      "timeRangeMin": "Saat aralığı çox qısadır.",
+      "timeRangeFormat": "Saat aralığı bu formatda olmalıdır: SS:DD-SS:DD (məs: 10:00-14:00).",
+      "areaRequired": "Ən azı bir fəaliyyət sahəsini seçin və ya 'Digər' bölməsinə yazın.",
+      "daysInvalid": "Etibarsız gün dəyəri."
+    },
+
+    "progress": "Proqres"
+  },
+  "donateModal": {
+    "title": "Dəstək",
+    "close": "Bağla",
+    "tabs": { "money": "Pul", "needs": "Ehtiyaclar" },
+    "money": {
+      "desc": "Birbaşa dəstək üçün aşağıdakı kart nömrəsindən istifadə edə bilərsiniz.",
+      "cardLabel": "Kart nömrəsi",
+      "copy": "Kopyala",
+      "copied": "Kopyalandı!"
+    },
+    "needs": {
+      "desc": "Hal-hazırda ehtiyac duyulan sahələr:",
+      "clothes": {
+        "title": "Geyim",
+        "desc": "Mövsümə uyğun geyimlər, ayaqqabı və s."
+      },
+      "food": { "title": "Qida", "desc": "Quru ərzaqlar, uşaq qidası və s." },
+      "school": {
+        "title": "Məktəb",
+        "desc": "Dəftərxana ləvazimatları, çanta və s."
+      }
+    },
+    "actions": {
+      "whatsapp": "WhatsApp ilə əlaqə",
+      "contact": "Əlaqə səhifəsi"
+    }
+  },
+  "services": {
+    "hero": {
+      "badge": "Xidmətlərimiz",
+      "title_1": "Həssas qruplar üçün peşəkar",
+      "title_2": "dəstək",
+      "subtitle": "Qadın və uşaqların təhlükəsizliyi, rifahı və sosial inteqrasiyası üçün etibarlı, insan-mərkəzli xidmətlər təqdim edirik."
+    },
+    "cta": {
+      "title": "Dəstəyə ehtiyacınız var?",
+      "desc": "Komandamız sizi dinləməyə və ehtiyaclarınıza uyğun həll təklif etməyə hazırdır.",
+      "button": "Bizimlə əlaqə"
+    },
+    "items": [
+      {
+        "title": "Təhlükəsizlik və yaşayış",
+        "desc": "Məişət zorakılığına məruz qalmış qadın və uşaqlar üçün təhlükəsiz sığınacaq; gündəlik qida, geyim, gigiyena vasitələri və yataq dəsti; istilik, işıq, su və digər məişət şəraiti."
+      },
+      {
+        "title": "Psixoloji dəstək",
+        "desc": "Travma yaşamış qadın və uşaqlara psixoloji yardım; uşaqlarla fərdi və qrup terapiyası; qadınlara özünəinam və həyat bacarıqlarını bərpa etməyə yönəlmiş məşğələlər."
+      },
+      {
+        "title": "Hüquqi yardım",
+        "desc": "Hüquqi məsləhətlər; zorakılıq hallarında polis və məhkəmələrdə dəstək; hüquqların qorunması üçün zəruri sənədlərin hazırlanmasına kömək."
+      },
+      {
+        "title": "Sosial iş və inteqrasiya",
+        "desc": "Qadınların iş tapması, peşə kursları və təhsilə yönləndirilməsi; uşaqların məktəbə davamlılığının təmin edilməsi; sosial yardım və müavinətlərdən yararlanmaqda köməklik."
+      },
+      {
+        "title": "Tibbi xidmət",
+        "desc": "İlk tibbi yardım; ehtiyac olduqda xəstəxana və poliklinikalara yönləndirmə; psixi və fiziki sağlamlığın bərpasına dəstək."
+      },
+      {
+        "title": "Maarifləndirmə və inkişaf",
+        "desc": "Qadınlar üçün həyat bacarıqları (peşə, maliyyə savadlılığı, hüquqi maarifləndirmə) üzrə təlimlər; uşaqlar üçün dərs, oyun və inkişaf proqramları; ictimai həyata adaptasiya məşğələləri."
+      }
+    ]
+  },
+  "footer": {
+    "title1": "Keçidlər",
+    "title2": "Bölmələr",
+    "title3": "Bizi izləyin",
+    "blog": "Blog",
+    "documents": "Sənədlər",
+    "about": "Haqqımızda",
+    "projects": "Layihələrin monitorinqi",
+    "services": "Xidmətlər",
+    "events": "Tədbirlər",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "rights": "Bütün hüquqlar qorunur."
+  },
+  "events": {
+    "title": "Tədbirlər"
+  },
+
+  "documents": {
+    "searchPlaceholder": "Axtar: başlıq, söz...",
+    "filterAll": "Hamısı",
+    "btnDownload": "Yüklə",
+    "btnNewTab": "Yeni səhifə",
+    "btnCopyLink": "Linki kopyala",
+    "empty": "Heç nə tapılmadı.",
+    "cat": {
+      "reports": "Hesabatlar",
+      "research": "Tədqiqat",
+      "charter": "Nizamnamə",
+      "monitoring": "Monitorinq",
+      "policy": "Siyasət",
+      "accreditation": "Akkreditasiya",
+      "other": "Digər"
+    }
+  }
+}

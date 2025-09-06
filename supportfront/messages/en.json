@@ -1,0 +1,521 @@
+{
+  "header": {
+    "logoSubtitle": "Because we need each other.",
+    "account": "ACCOUNT",
+    "register": "REGISTER",
+    "signIn": "SIGN IN",
+    "contact": "CONTACT",
+    "logout": "LOGOUT",
+    "about": "ABOUT",
+    "eventsAndResearch": "Events & Research",
+    "events": "Events",
+    "research": "Research",
+    "consultation": "CONSULTATION",
+    "blog": "BLOG",
+    "takeAction": "TAKE ACTION",
+    "donate": "DONATE",
+    "sponsorChild": "SPONSOR A CHILD",
+    "projectsMontoring": "PROJECT & MONITORING",
+    "services": "SERVICES",
+    "documents": "DOCUMENTS",
+    "career": "CAREER",
+    "volunteer": "VOLUNTEER",
+    "vacancy": "VACANCY"
+  },
+  "heroBanner": {
+    "title": "FOR THE SAKE OF THE FUTURE TODAY! We protect children, empower women, and fight against human trafficking.",
+    "buttonText": "Donate"
+  },
+  "featuresSection": {
+    "title": "In it for women since 1998.",
+    "subtitle": "Since 1998, we have been building safe support for women, hope for children, and a healthy future for society.",
+    "cards": [
+      {
+        "image": "https://www.childfund.org/globalassets/0aaa---universal-blocks/homepage/child.png",
+        "title": "Child safety",
+        "description": "Children are the future of our society. We work for their safety, well-being, and development, providing support through protective and harmless interventions.",
+        "buttonText": "LEARN MORE",
+        "buttonColor": "bg-[#009966]"
+      },
+      {
+        "image": "https://www.childfund.org/contentassets/35ea6c14582e4c08a5a7a7f442ba1d5e/earth-3.png",
+        "title": "Women Support",
+        "description": "Since 1998, “Clean World” Women's Aid Public Union has been providing thousands of women with legal assistance, psychological support, shelter, and reintegration services. In all our activities, we prioritize protecting women's dignity and ensuring no harm is done.",
+        "buttonText": "LEARN MORE",
+        "buttonColor": "bg-[#009966]"
+      },
+      {
+        "image": "https://www.childfund.org/globalassets/0aaa---universal-blocks/homepage/charity.png",
+        "title": "Reliable action, ethical approach",
+        "description": "For over 25 years, “Clean World” has remained committed to ethical principles and the principle of doing no harm in the fight against human trafficking and gender-based violence. All our activities are built on transparency, respect for human dignity, and social responsibility.",
+        "buttonText": "LEARN MORE",
+        "buttonColor": "bg-[#009966]"
+      }
+    ]
+  },
+  "highlightSections": [
+    {
+      "image": "/assets/images/child1.jpg",
+      "title": "Start a lifelong friendship",
+      "description": "To support a child or a woman in a shelter means to light up their path in life. Every step taken here is unforgettable, because with love, hope, and care we become a family.",
+      "buttonText": "LEARN MORE",
+      "layout": "left"
+    },
+    {
+      "image": "/assets/images/child2.jpg",
+      "title": "The impact we make — together",
+      "description": "So much becomes possible when children grow up healthy, educated, skilled and safe wherever they are — at home, in school, in community and online. Together we’re helping them do exactly that.",
+      "buttonText": "OUR WORK",
+      "layout": "right"
+    }
+  ],
+  "newsletterSection": {
+    "title": "Do you need help?",
+    "description": "Then sign up now and join the TəmizDünya community!",
+    "buttonText": "SIGN UP"
+  },
+  "registration": {
+    "title": "Registration",
+    "form": {
+      "title": "Title",
+      "suffix": "Suffix",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "username": "Username",
+      "country": "Country",
+      "streetAddress": "Street Address",
+      "city": "City",
+      "state": "State",
+      "zipCode": "Zip Code",
+      "phone": "Phone",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password"
+    },
+    "buttons": {
+      "continue": "Register"
+    },
+    "placeholders": {
+      "title": "Select Title",
+      "suffix": "Select Suffix",
+      "phone": "Phone # +1 (xxx) xxx-xxxx"
+    },
+    "validate": {
+      "title": "The password must be at least 8 characters long and include 1 uppercase letter, 1 lowercase letter, 1 number, and 1 special character. (Example: Password123!)"
+    }
+  },
+  "login": {
+    "title": "Login",
+    "form": {
+      "email": "Email Address",
+      "password": "Password"
+    },
+    "buttons": {
+      "login": "Login"
+    },
+    "messages": {
+      "success": "Login successful!",
+      "error": "Login failed!"
+    },
+    "forgot": "Forgot password?"
+  },
+  "reset": {
+    "title": "Forgot Your Password?",
+    "description": "Enter your email address and we’ll send you a reset link.",
+    "emailPlaceholder": "Enter your email",
+    "buttonText": "Send Reset Link",
+    "sending": "sending...",
+    "send": "Send Reset Link",
+    "successMessage": "Password reset link has been sent to your email!",
+    "resetForm": {
+      "title": "Reset Your Password",
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm Password",
+      "resetButton": "Reset Password",
+      "successReset": "Password reset successful!"
+    },
+    "error": "Error occured!"
+  },
+  "about": {
+    "title": "What are we doing",
+    "cards": [
+      {
+        "image": "https://www.childfund.org/globalassets/about-childfund/about/child.png",
+        "title": "Child-focused",
+        "description": "We exist for children – and their voices and experiences guide everything we do. Each year, we reach millions of children and family members contending with poverty through programs that support them to create the conditions children need to thrive."
+      },
+      {
+        "image": "https://www.childfund.org/globalassets/about-childfund/about/community.png",
+        "title": "Community-centered",
+        "description": "As a community development organization, we work hand in hand with local partner organizations to diminish the impact of poverty on children. Because local people know their own needs best."
+      },
+      {
+        "image": "https://www.childfund.org/globalassets/about-childfund/about/people.png",
+        "title": "People-first",
+        "description": "We believe that people are people, no matter their circumstances or experiences, and that their value is intrinsic and immeasurable. We strive to honor the dignity of every child in our programs and every human being we meet, no matter what."
+      }
+    ],
+    "text": {
+      "title": "Here since 1998. Why? Because we need each other.",
+      "subtitle1": "“Clean World” Women’s Aid Public Union (CW-WAPU) is a trusted service provider and leading advocate in the field of women’s rights protection and support for victims of human trafficking in Azerbaijan. We operate a shelter and rehabilitation center accredited by the Ministry of Labor and Social Protection, providing comprehensive services to Azerbaijani citizens and foreign nationals affected by human trafficking and gender-based violence.",
+      "subtitle2": "Founded in 1998, CW-WAPU has become one of Azerbaijan’s leading organizations in service provision, legal reforms, and international advocacy initiatives. For over two decades, we have combined direct support services with systemic change initiatives, operating as a key civil society institution in this field."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "Building an inclusive and safe society where every woman and child is free from violence, has access to justice, equal opportunities, and a life of dignity.",
+      "buttonText": "Learn More"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "points": [
+        "To ensure the protection, empowerment, and rehabilitation of victims of human trafficking and violence.",
+        "To promote and support national and international efforts to eliminate exploitation and gender-based discrimination."
+      ]
+    }
+  },
+  "effectPage": {
+    "title": "Our Impact",
+    "impact": {
+      "items": [
+        {
+          "title": "Thousands of women have received legal and psychological support.",
+          "desc": "Our organization has provided rehabilitation and legal protection services with an individual approach for victims of trafficking and violence."
+        },
+        {
+          "title": "We manage one of Azerbaijan's first accredited shelters.",
+          "desc": "Accredited by the Ministry of Labor and Social Protection, this shelter offers comprehensive support to trafficking victims."
+        },
+        {
+          "title": "We are one of the leading organizations contributing to national policy.",
+          "desc": "We actively participated in the preparation and implementation of Azerbaijan's National Action Plan on Combating Human Trafficking."
+        },
+        {
+          "title": "We have built strong local and international partnerships.",
+          "desc": "By collaborating with NGOs, advocacy networks, and international organizations, we have expanded our impact globally."
+        }
+      ]
+    },
+    "join": {
+      "title": "How You Can Join",
+      "options": [
+        {
+          "title": "Partnership",
+          "desc": "Participate as a partner in our projects and create an impact together."
+        },
+        {
+          "title": "Support",
+          "desc": "Support victims of trafficking through donations or specialized services."
+        },
+        {
+          "title": "Awareness & Training",
+          "desc": "Join training programs and public awareness campaigns to educate society."
+        }
+      ]
+    },
+    "highlights": {
+      "title": "Key Highlights of 2024–2025",
+      "items": [
+        "“Amber Heart” Award (Ukraine MFA, 2025) – For humanitarian support to Ukrainian refugees.",
+        "UNODC Monitoring (2024) – Recognition for survivor-centered and comprehensive services.",
+        "GAATW Global Participation (2024–2025) – Presenting survivor-based practices and hosting leadership visits.",
+        "Regional High-Level Cooperation (2025) – Policy meeting with Belarus government delegation.",
+        "Amazon Publications (2024) – Launch of internationally shared anti-trafficking methodology.",
+        "Expansion of Digital Outreach (2024) – Increase in victim self-referrals via social media and WhatsApp channels."
+      ]
+    },
+    "leadership": {
+      "title": "Leadership",
+      "name": "Mehriban Zeynalova",
+      "position": "Human rights defender and coordinator of the National NGO Coalition on Combating Human Trafficking.",
+      "desc": "Recognized nationally and internationally, representing civil society in global dialogues, UN forums, and policy development."
+    }
+  },
+  "projectsMonitoring": {
+    "title": "Projects and Monitoring",
+    "subtitle": "Steps towards quality, transparency, and sustainable development",
+    "monitoring": {
+      "title": "External Monitoring and International Recognition",
+      "items": [
+        {
+          "title": "Ministry of Labor and Social Protection",
+          "text": "Assessed the shelter's compliance with accreditation requirements."
+        },
+        {
+          "title": "Ministry of Internal Affairs",
+          "text": "Reviewed safety measures and protection protocols."
+        },
+        {
+          "title": "Ministry of Health",
+          "text": "Analyzed the coordination of medical and psychological services."
+        }
+      ],
+      "note": "These monitoring visits resulted in significant recognition of our transparency, reliability, and effective collaboration with state institutions."
+    },
+    "partnerships": {
+      "title": "Strategic Partnerships and Capacity Building (2024)",
+      "partners": [
+        "Ministry of Internal Affairs",
+        "Ministry of Health",
+        "Ministry of Labor and Social Protection",
+        "State Committee for Family, Women and Children Affairs",
+        "Ministry of Justice",
+        "National NGO Coalition Against Human Trafficking"
+      ],
+      "note": "We strengthen national efforts by coordinating and organizing joint actions among more than 40 NGOs."
+    },
+    "innovation": {
+      "title": "Innovative Initiative: Psychological Cabinet (2025)",
+      "list": [
+        "Structured therapy sessions for offenders",
+        "Behavior change programs",
+        "Psychological assessment and observation services"
+      ],
+      "note": "The project aims to break the cycle of violence and promote healthier family dynamics."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "address": {
+      "label": "Address",
+      "value": "Bilajari settlement, Motodrom area 19, Binagadi District, Baku, Azerbaijan"
+    },
+    "phone": {
+      "label": "Phone",
+      "value": "+994 55 314 35 15"
+    },
+    "email": {
+      "label": "Email",
+      "value": "-"
+    },
+    "social": {
+      "label": "Social",
+      "links": {
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "linkedin": "LinkedIn"
+      }
+    },
+    "form": {
+      "placeholders": {
+        "fullName": "Full name *",
+        "email": "Email *",
+        "phone": "Phone (optional)",
+        "subject": "Subject *",
+        "message": "Your message *"
+      },
+      "consent": "Your details will be kept confidential and used only for communication.",
+      "submit": "Send",
+      "sending": "Sending...",
+      "success": "Your message has been sent!",
+      "errors": {
+        "requiredAll": "Please fill in the required fields.",
+        "email": "Please enter a valid email address.",
+        "phone": "Please enter a valid phone number.",
+        "consent": "Please confirm the privacy consent.",
+        "messageMin": "Message must be at least 10 characters.",
+        "server": "A server error occurred."
+      },
+      "successTitle": "Mesajınız göndərildi!"
+    }
+  },
+  "volunteer": {
+    "title": "Volunteer Application",
+    "subtitle": "Clean World Women's Aid Public Union",
+
+    "sections": {
+      "personal": "1. Personal Information",
+      "education": "2. Education & Profession",
+      "activity": "3. Volunteer Activity",
+      "availability": "4. Availability & Schedule",
+      "other": "5. Other Notes"
+    },
+
+    "placeholders": {
+      "fullName": "Full Name *",
+      "birthDate": "Birth Date *",
+      "gender": "Select gender *",
+      "phone": "Phone *",
+      "email": "Email *",
+      "address": "Address (city/district) *",
+
+      "educationLevel": "Education level *",
+      "graduatedSchool": "Graduated Institution *",
+      "profession": "Profession *",
+      "workplace": "Current workplace (if any)",
+      "position": "Position",
+
+      "otherArea": "Other",
+      "prevExp": "Previous volunteer/NGO experience (org, area, duration)",
+      "motivation": "Why do you want to volunteer at “Clean World”? (short motivation)",
+      "timeRange": "Specific time range (e.g., 10:00-14:00)",
+      "skills": "Special skills / certificates (languages, software, training, etc.)"
+    },
+
+    "gender": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+
+    "educationOptions": {
+      "secondary": "Secondary",
+      "vocational": "Vocational secondary",
+      "bachelor": "Bachelor",
+      "masterPlus": "Master+"
+    },
+
+    "areas": {
+      "awareness": "Awareness activities",
+      "shelter": "Shelter activities",
+      "child": "Child-focused activities",
+      "social": "Social media & content",
+      "translation": "Translation & documentation",
+      "research": "Research & data collection",
+      "legal": "Legal support",
+      "psych": "Psychological support"
+    },
+
+    "days": {
+      "monday": "Monday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "weekend": "Weekend"
+    },
+
+    "hours": {
+      "h1_5": "1–5 hours per week",
+      "h6_10": "6–10 hours per week",
+      "h11": "11+ hours per week"
+    },
+
+    "consent": "Your data will be kept confidential and used only for internal coordination purposes.",
+
+    "buttons": {
+      "submit": "Apply",
+      "sending": "Sending..."
+    },
+
+    "messages": {
+      "success": "Your application has been submitted successfully!",
+      "requiredAll": "Please fill in the required fields.",
+      "requiredEdu": "Please complete education & profession fields.",
+      "requiredHours": "Please choose weekly hours.",
+      "consent": "Please accept the privacy consent.",
+      "error": "An error occurred while sending."
+    },
+
+    "validation": {
+      "fullNameMin": "Full name must be at least 3 characters long.",
+      "birthDateMinAge": "You must be at least 16 years old to volunteer.",
+      "genderInvalid": "Please select a valid gender.",
+      "phoneInvalid": "Please enter a valid phone number.",
+      "emailInvalid": "Please enter a valid email address.",
+      "addressMin": "Address must be at least 5 characters long.",
+      "educationInvalid": "Please select a valid education level.",
+      "schoolMin": "The name of the institution you graduated from is too short.",
+      "professionMin": "Profession name is too short.",
+      "timeRangeMin": "Time range is too short.",
+      "timeRangeFormat": "Time range must be in the format HH:MM-HH:MM (e.g., 10:00-14:00).",
+      "areaRequired": "Select at least one activity area or write in the 'Other' field.",
+      "daysInvalid": "Invalid day value."
+    },
+    "progress": "Progress"
+  },
+  "donateModal": {
+    "title": "Support",
+    "close": "Close",
+    "tabs": { "money": "Money", "needs": "Needs" },
+    "money": {
+      "desc": "You can use the card number below for direct support.",
+      "cardLabel": "Card number",
+      "copy": "Copy",
+      "copied": "Copied!"
+    },
+    "needs": {
+      "desc": "Current areas of need:",
+      "clothes": {
+        "title": "Clothing",
+        "desc": "Seasonal clothing, shoes, etc."
+      },
+      "food": { "title": "Food", "desc": "Dry food, baby food, etc." },
+      "school": { "title": "School", "desc": "Stationery, backpacks, etc." }
+    },
+    "actions": {
+      "whatsapp": "Contact via WhatsApp",
+      "contact": "Contact page"
+    }
+  },
+  "services": {
+    "hero": {
+      "badge": "Our Services",
+      "title_1": "Professional",
+      "title_2": "support for vulnerable groups",
+      "subtitle": "We provide reliable, people-centered services to ensure the safety, well-being and social integration of women and children."
+    },
+    "cta": {
+      "title": "Need support?",
+      "desc": "Our team is ready to listen and offer solutions tailored to your needs.",
+      "button": "Contact us"
+    },
+    "items": [
+      {
+        "title": "Safety & Shelter",
+        "desc": "Safe shelter for women and children affected by domestic violence; daily provision of food, clothing, hygiene items and bedding; heating, electricity, water and household conditions."
+      },
+      {
+        "title": "Psychological Support",
+        "desc": "Psychological assistance for traumatized women and children; individual and group therapy for children; trainings to restore self-confidence and life skills for women."
+      },
+      {
+        "title": "Legal Aid",
+        "desc": "Legal consultation; support with police and courts in cases of violence; assistance with preparing necessary documents to protect the rights of women and children."
+      },
+      {
+        "title": "Social Work & Integration",
+        "desc": "Guidance for women to find jobs, attend vocational courses or education; ensuring children's consistent school attendance; assistance in accessing social benefits and aid."
+      },
+      {
+        "title": "Medical Services",
+        "desc": "First medical aid; referrals to hospitals and clinics when needed; support for restoring mental and physical health."
+      },
+      {
+        "title": "Awareness & Development",
+        "desc": "Trainings for women on life skills (profession, financial literacy, legal awareness); lessons, play and development programs for children; activities for adaptation to public life."
+      }
+    ]
+  },
+  "footer": {
+    "title1": "Links",
+    "title2": "Sections",
+    "title3": "Follow Us",
+    "blog": "Blog",
+    "documents": "Documents",
+    "about": "About",
+    "projects": "Projects Monitoring",
+    "services": "Services",
+    "events": "Events",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "rights": "All Rights Reserved."
+  },
+  "events": {
+    "title": "Events"
+  },
+  "documents": {
+    "searchPlaceholder": "Search: title, keyword...",
+    "filterAll": "All",
+    "btnDownload": "Download",
+    "btnNewTab": "New tab",
+    "btnCopyLink": "Copy link",
+    "empty": "No results found.",
+    "cat": {
+      "reports": "Reports",
+      "research": "Research",
+      "charter": "Charter",
+      "monitoring": "Monitoring",
+      "policy": "Policy",
+      "accreditation": "Accreditation",
+      "other": "Other"
+    }
+  }
+}

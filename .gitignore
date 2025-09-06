@@ -1,0 +1,12 @@
+# Node modules
+supportback/node_modules/
+supportfront/node_modules/
+
+# Environment files
+supportback/.env
+supportfront/.env
+# Genel node_modules (her ihtimale karşı)
+node_modules/
+
+# Genel env dosyaları
+.env
